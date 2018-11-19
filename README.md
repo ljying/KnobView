@@ -2,4 +2,5 @@
 时钟表盘选择时长控件
 ## 运行效果图如下
 
-![](https://github.com/ljying/KnobView/blob/master/art/main.png)
+<img src="https://github.com/ljying/KnobView/blob/master/art/main.png" width=50% height=50% />
+
