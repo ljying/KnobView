@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="off_time_toolbar_color">@color/ot_common_color</color>
+    <color name="grey_dark">#7f7f7f</color>
+    <!--范围线-->
+    <color name="grey_light2">#887f7f7f</color>
+    <!--圆圈-->
+    <color name="knob_angle">#ff7e3d</color>
+    <color name="knob_arc">#00aaaaaa</color>
+    <color name="knob_hour">#80808080</color>
+    <color name="ci_primary">#ff7e3d</color>
+    <color name="immerse_color">#66000000</color>
+    <color name="common_bg_color">#ffffff</color>
+    <color name="grey_middle">#e9e9e9</color>
+    <color name="black15">#26000000</color>
+    <color name="black22">#38000000</color>
+    <color name="black33">#54000000</color>
+    <color name="black4">#0a000000</color>
+    <color name="black8">#14000000</color>
+    <color name="bottom_bt_press">#00a6ff</color>
+    <color name="bottom_bt_focus">#78dbff</color>
+    <color name="ci_primary_light">#78dbff</color>
+    <color name="button_focused">@color/ci_primary_light</color>
+    <color name="button_pressed">@color/ci_primary</color>
+    <color name="button_selected">@color/ci_primary_light</color>
+    <color name="grey">#ededed</color>
+    <color name="ci_primary_dark">#ef7134</color>
+    <color name="ot_common_color">#ff7e3d</color>
+    <color name="splash_common_bg_press_color">#4d000000</color>
+    <color name="splash_common_bg_normal_color">#4dffffff</color>
+    <color name="splash_setting_bg_color">#33000000</color>
+
+    <color name="bar_grey_90">#dd393a3e</color>
+</resources>

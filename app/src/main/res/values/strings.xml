@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KnobView</string>
+    <string name="knob_label_cancel">取消</string>
+    <string name="knob_label_schedule">定时</string>
+    <string name="knob_label_start">开始</string>
+    <string name="knob_hours">小时</string>
+    <string name="knob_minutes">分钟</string>
+    <string name="total_time" formatted="false">(%s%02d %s)</string>
+</resources>
